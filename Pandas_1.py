@@ -8,3 +8,4 @@ df = pd.DataFrame(d_t, columns=['lot', 'col_1'])
 df.set_index('lot', inplace=True)
 print(df)
 #iiiprint(df)print(df)print(df)print(df)print(df)
+# 2222
